@@ -7,6 +7,17 @@
 //
 
 import Foundation
+import ldap
 
 print("Hello, World!")
 
+// Вызвать функцию sayHello()
+// (Написано в newfiletest.swift
+sayHello()
+summap()
+//Программа выполнилась
+print("все ок")
+//print(year)
+
+print (languageName, "version newtest:", version, Copyright)
+switchExample1()
